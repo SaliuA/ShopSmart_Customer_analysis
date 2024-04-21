@@ -1,7 +1,7 @@
 # ShopSmart Data Analysis
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
-The objective of this notebook is to conduct a comprehensive analysis of the data The objective of this notebook is to conduct a comprehensive analysis of the data gathered from the ShopSmart website. The aim is to uncover valuable insights into how customers interact with the site, their buying behaviors, and their product preferences.
+In today’s data-driven world, businesses can optimize their resources and time by delving into their data to boost revenue and minimize customer attrition. The objective of this notebook is to perform an in-depth analysis of the data collected from the ShopSmart website. Our goal is to reveal key insights into customer interactions with the site, their purchasing habits, and their product preferences.
 
 ### In this notebook, I am going to try to answer a few questions:
 
@@ -62,9 +62,9 @@ Singapore emerges as the standout revenue contributor, generating an impressive 
 Conversely, Slovenia trails behind, contributing a mere $180.
 Focus on underperforming markets with high interaction levels (e.g., Argentina) to boost revenue.
 
-* **Valued Customer Identification**:<br>
-Customer bb7fd0af stands out as the most valued, spending $44,417 on the site.
-Nurture relationships with high-value customers.
+* **Customer Segmentation**:<br>
+The model segmented our customers into 3 groups with 1 Signifying high valued,2 signifying mid-valued and 0 signifying low valued.Customer bb7fd0af stands out as one of our high valued customers with a label of 1, spending $44,417 on the site.
+Nurture relationships with high-value customers and mid-valued customers and run target ads at low-valued customers to increase their probability of purcase.
 
 ### Built With
 
